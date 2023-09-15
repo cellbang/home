@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CnRepos",
+  title: "CellBang",
   base: '/website',
   description: "用爱开源", 
   themeConfig: {
@@ -44,7 +44,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/cnrepos/website' }
+      { icon: 'github', link: 'https://cellbang.github.io/website' }
     ]
   }
 })

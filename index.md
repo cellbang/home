@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "CnRepos"
+  name: "CellBang"
   text: "人类高质量开源项目"
   tagline: 用爱开源，用心维护，拒绝垃圾
   actions:

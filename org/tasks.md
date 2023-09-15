@@ -8,11 +8,11 @@
 ## 推选出组织管理员和维护者
 ## 制定组织的运营规则
 
-## 设计制作 `CnRepos`形象标识
+## 设计制作 `CellBang`形象标识
 
-## 完善 `CnRepos` 的网站
+## 完善 `CellBang` 的网站
 
-`CnRepos`网站本着不要钱的原则，基于`VitePress`开发,通过`Github Pages`形式发布，欢迎大家一起来完善。
+`CellBang`网站本着不要钱的原则，基于`VitePress`开发,通过`Github Pages`形式发布，欢迎大家一起来完善。
 
 目前需要完善的功能
 
